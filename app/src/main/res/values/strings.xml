@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxChange Demo</string>
+    <string name="add">Add</string>
+    <string name="sample_text">Sample Text</string>
+</resources>
