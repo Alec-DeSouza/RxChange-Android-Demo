@@ -81,7 +81,7 @@ public class TextElementAdapter extends RecyclerView.Adapter {
     }
 
     public void addElement(final TextElement element) {
-        mElementList.add(0, element);
+        mElementList.add(element);
         notifyDataSetChanged();
     }
 
